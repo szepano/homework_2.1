@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: personal-assistant
+Version: 0.1
+Summary: It is a simple personal assistant that allows you to menage your contacts and perform operations of files using commends.
+Home-page: https://github.com/szepano/group_project.git
+Author: Bartosz Szczepan, Bartosz Krusiński, Dawid Dziekan, Dawid Dudek
+Author-email: bart.szczepan04@gmail.com, bartoszkrusinski@gmail.com, dziekan.dawid@wp.pl, bervex@gmail.com
+License: Mit license
+License-File: LICENSE
