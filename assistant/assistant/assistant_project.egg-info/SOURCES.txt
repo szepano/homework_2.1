@@ -1,0 +1,13 @@
+LICENSE
+README.md
+setup.py
+assistant/__init__.py
+assistant/class_addressbook.py
+assistant/classes.py
+assistant/interaction.py
+assistant/sorter.py
+assistant_project.egg-info/PKG-INFO
+assistant_project.egg-info/SOURCES.txt
+assistant_project.egg-info/dependency_links.txt
+assistant_project.egg-info/entry_points.txt
+assistant_project.egg-info/top_level.txt
